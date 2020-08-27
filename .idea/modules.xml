@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Date_Time/Date_Time.iml" filepath="$PROJECT_DIR$/Date_Time/Date_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functionel_Interface/Functionel_Interface.iml" filepath="$PROJECT_DIR$/Functionel_Interface/Functionel_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceBundle/ResourceBundle.iml" filepath="$PROJECT_DIR$/ResourceBundle/ResourceBundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8.iml" filepath="$PROJECT_DIR$/java8.iml" />
+    </modules>
+  </component>
+</project>
